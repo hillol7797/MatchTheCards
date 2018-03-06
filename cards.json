@@ -1,0 +1,213 @@
+{
+    "cards": 
+    [
+        {
+            "name": "CA",
+            "img": "Cards/CA.png"
+        },
+        {
+            "name": "C2",
+            "img": "Cards/C2.png"
+        },
+        {
+            "name": "C3",
+            "img": "Cards/C3.png"
+        },
+        {
+            "name": "C4",
+            "img": "Cards/C4.png"
+        },
+        {
+            "name": "C5",
+            "img": "Cards/C5.png"
+        },
+        {
+            "name": "C6",
+            "img": "Cards/C6.png"
+        },
+        {
+            "name": "C7",
+            "img": "Cards/C7.png"
+        },
+        {
+            "name": "C8",
+            "img": "Cards/C8.png"
+        },
+        {
+            "name": "C9",
+            "img": "Cards/C9.png"
+        },
+        {
+            "name": "C10",
+            "img": "Cards/C10.png"
+        },
+        {
+            "name": "CJ",
+            "img": "Cards/CJ.png"
+        },
+        {
+            "name": "CQ",
+            "img": "Cards/CQ.png"
+        },
+        {
+            "name": "CK",
+            "img": "Cards/CK.png"
+        },
+        {
+            "name": "DA",
+            "img": "Cards/DA.png"
+        },
+        {
+            "name": "D2",
+            "img": "Cards/D2.png"
+        },
+        {
+            "name": "D3",
+            "img": "Cards/D3.png"
+        },
+        {
+            "name": "D4",
+            "img": "Cards/D4.png"
+        },
+        {
+            "name": "D5",
+            "img": "Cards/D5.png"
+        },
+        {
+            "name": "D6",
+            "img": "Cards/D6.png"
+        },
+        {
+            "name": "D7",
+            "img": "Cards/D7.png"
+        },
+        {
+            "name": "D8",
+            "img": "Cards/D8.png"
+        },
+        {
+            "name": "D9",
+            "img": "Cards/D9.png"
+        },
+        {
+            "name": "D10",
+            "img": "Cards/D10.png"
+        },
+        {
+            "name": "DJ",
+            "img": "Cards/DJ.png"
+        },
+        {
+            "name": "DQ",
+            "img": "Cards/DQ.png"
+        },
+        {
+            "name": "DK",
+            "img": "Cards/DK.png"
+        },
+        {
+            "name": "HA",
+            "img": "Cards/HA.png"
+        },
+        {
+            "name": "H2",
+            "img": "Cards/H2.png"
+        },
+        {
+            "name": "H3",
+            "img": "Cards/H3.png"
+        },
+        {
+            "name": "H4",
+            "img": "Cards/H4.png"
+        },
+        {
+            "name": "H5",
+            "img": "Cards/H5.png"
+        },
+        {
+            "name": "H6",
+            "img": "Cards/H6.png"
+        },
+        {
+            "name": "H7",
+            "img": "Cards/H7.png"
+        },
+        {
+            "name": "H8",
+            "img": "Cards/H8.png"
+        },
+        {
+            "name": "H9",
+            "img": "Cards/H9.png"
+        },
+        {
+            "name": "H10",
+            "img": "Cards/H10.png"
+        },
+        {
+            "name": "HJ",
+            "img": "Cards/HJ.png"
+        },
+        {
+            "name": "HQ",
+            "img": "Cards/HQ.png"
+        },
+        {
+            "name": "HK",
+            "img": "Cards/HK.png"
+        },
+        {
+            "name": "SA",
+            "img": "Cards/SA.png"
+        },
+        {
+            "name": "S2",
+            "img": "Cards/S2.png"
+        },
+        {
+            "name": "S3",
+            "img": "Cards/S3.png"
+        },
+        {
+            "name": "S4",
+            "img": "Cards/S4.png"
+        },
+        {
+            "name": "S5",
+            "img": "Cards/S5.png"
+        },
+        {
+            "name": "S6",
+            "img": "Cards/S6.png"
+        },
+        {
+            "name": "S7",
+            "img": "Cards/S7.png"
+        },
+        {
+            "name": "S8",
+            "img": "Cards/S8.png"
+        },
+        {
+            "name": "S9",
+            "img": "Cards/S9.png"
+        },
+        {
+            "name": "S10",
+            "img": "Cards/S10.png"
+        },
+        {
+            "name": "SJ",
+            "img": "Cards/SJ.png"
+        },
+        {
+            "name": "SQ",
+            "img": "Cards/SQ.png"
+        },
+        {
+            "name": "SK",
+            "img": "Cards/SK.png"
+        }
+    ]
+}
